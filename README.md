@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">💻Tech Stack:</h2>
+<h2 align="left">💻Tech Stack⚡</h2>
 
 ###
 
@@ -65,6 +65,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itismeJay/itismeJay/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+  ![snake gif](https://github.com/itismeJay/itismeJay/blob/output/github-snake-dark.svg)
+
+</div>
