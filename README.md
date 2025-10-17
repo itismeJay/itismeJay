@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Frontend Software Developer</h3>
+<h3 align="left">Frontend Software Engineer</h3>
 
 ###
 
